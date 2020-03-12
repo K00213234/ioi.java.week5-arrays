@@ -23,5 +23,4 @@ public class InitializeAnArrayExample1
 		//
 		numberArray1 = new int[4];
 	}
-
 }
